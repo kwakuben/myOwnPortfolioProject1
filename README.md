@@ -8,5 +8,5 @@ site. This approach exposes you to the full development practice, forces you to 
 become a productive developer.
 
 As a junior developer, I embarked on this project for the above-mentioned reasons and more. After completing the task in a few days, I still feel it was super worth it, 
-and my reason are simple: it aided my experience in front-end  development
+and my reason is simple: it enhanced my experience in front-end development beyond expectation.
 
