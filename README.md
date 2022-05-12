@@ -1,5 +1,5 @@
 # myOwnPortfolioProject1
-This repo houses how I built from scratch a portfolio website using raw HTML5, CSS (SASS) and JavaScript. It is based on a tutorial by MacLinz published on
+This repo houses a portfolio website I built from scratch using HTML5, CSS (SASS) and JavaScript. It is based on a tutorial by MacLinz published on
 freeCodeCamp's platform.
 
 Typically most developers design and build websites using no-code platforms. This simplifies the development experience massively. 
